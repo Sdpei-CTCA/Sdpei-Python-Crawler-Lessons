@@ -1,0 +1,8 @@
+# Ignore CS Match Predict folder
+CS Match Predict/
+# Ignore Final term project folder
+期末作业/
+# Ignore .vscode
+.vscode/
+# Ignore PycharmHome
+PyCharmHome/
