@@ -1,5 +1,7 @@
-# Ignore CS Match Predict folder
-CS Match Predict/
+# Track CS Match Predict notebook, ignore generated outputs
+CS Match Predict/*.png
+CS Match Predict/*_executed.ipynb
+.ipynb_checkpoints/
 # Ignore Final term project folder
 期末作业/
 # Ignore .vscode
